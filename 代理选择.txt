@@ -1,3 +1,0 @@
-payload:  
-  - 'ycoo.net'
-  - 'satomi.my'
