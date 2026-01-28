@@ -2,3 +2,4 @@ payload:
   - 'www.wuchajian.xyz'
   - 'www.cupfox7.com'
   - 'my.dnshe.com'
+  - 'cdn.emby-cf.de5.net'
