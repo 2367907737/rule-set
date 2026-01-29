@@ -71,7 +71,8 @@ payload:
   - 'www.embyhome.top'  #深夜食堂
   - 'www.emby.su' #fkdjt
   - 'lustfulboy.com'  #男孩
-  - '.*emby.+'  #emby关键字通用规则
+  - 'DOMAIN-REGEX,.*emby.*'  #emby关键字通用规则
+
 
 
 
