@@ -1,0 +1,3 @@
+payload:  
+  - DOMAIN,ycoo.net,代理选择
+  - DOMAIN,satomi.my,代理选择

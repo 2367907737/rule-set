@@ -1,0 +1,6 @@
+payload:  
+  - DOMAIN,www.wuchajian.xyz,直连
+  - DOMAIN,www.cupfox7.com,直连
+  - DOMAIN,my.dnshe.com,直连
+  - DOMAIN,cdn.emby-cf.de5.net,直连
+  - DOMAIN,openlist.cf-proxy.de5.net,直连
