@@ -1,3 +1,4 @@
 payload:  
   - 'ycoo.net'
   - 'satomi.my'
+  - 'DOMAIN-KEYWORD,emby'  #emby关键字通用规则
