@@ -4,6 +4,7 @@ payload:
   - 'my.dnshe.com'
   - 'cdn.emby-cf.de5.net'
   - 'openlist.cf-proxy.de5.net'
-  - 'DOMAIN-REGEX,.*emby.*'  #emby关键字通用规则
+  - '.*emby.*'  #emby关键字通用规则
+
 
 
