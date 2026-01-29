@@ -1,11 +1,11 @@
 payload:  
-###直连###
+  ###直连###
   - DOMAIN,www.wuchajian.xyz,直连
   - DOMAIN,www.cupfox7.com,直连
   - DOMAIN,my.dnshe.com,直连
   - DOMAIN,cdn.emby-cf.de5.net,直连
   - DOMAIN,openlist.cf-proxy.de5.net,直连
-###emby###
+  ###emby###
   - DOAMIN,lite.cn2gias.uk,Emby #SNTP
   - DOAMIN-SUFFIX,staryuki.me,Emby  #Star
   - DOAMIN-SUFFIX,younoyes.com,Emby #Youno
@@ -79,9 +79,10 @@ payload:
   - DOAMIN,www.emby.su,Emby #fkdjt
   - DOAMIN,lustfulboy.com,Emby  #男孩
   - DOMAIN-KEYWORD,emby,Emby  #emby关键字通用规则
-###代理###
+  ###代理###
   - DOMAIN,ycoo.net,代理选择
   - DOMAIN,satomi.my,代理选择
+
 
 
 
